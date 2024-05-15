@@ -2,11 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=header&text={Welcome+visitors}&fontSize=70&fontAlign=50&fontAlignY=30&desc={I'm+HeartFire,wishing+you+happiness+every+day!}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=100&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;祝您生活愉快!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=100&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;不同的列车都在开往更好的地方!" />
 </p>
+
+<p align="center">
+<img src="https://camo.githubusercontent.com/f50234cb9f1be4beead6b35d3f6ec558561a79c263728818838447aa56cb5401/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966" />
+</p>
+
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Heart-fire&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Heart-fire&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Heart-fire&theme=github-compact&hide_border=true&area=true">
