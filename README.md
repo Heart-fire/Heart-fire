@@ -52,7 +52,7 @@ Sunday                   7 commits           ██████░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Tianjin
 
 💬 Programming Languages: 
 No Activity Tracked This Week
