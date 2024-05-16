@@ -16,6 +16,72 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Heart-fire&theme=github-compact&hide_border=true&area=true">
 <br/>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 513 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 34 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+🌆 Daytime                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+🌃 Evening                10 commits          █████████░░░░░░░░░░░░░░░░   34.48 % 
+🌙 Night                  7 commits           ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Tuesday                  10 commits          █████████░░░░░░░░░░░░░░░░   34.48 % 
+Wednesday                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Thursday                 6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   7 commits           ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     2 repos             █████████████████░░░░░░░░   66.67 % 
+TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+
+ Last Updated on 16/05/2024 08:57:23 UTC
 <!--END_SECTION:waka-->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Heart-fire&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
