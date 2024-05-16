@@ -16,10 +16,6 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Heart-fire&theme=github-compact&hide_border=true&area=true">
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 513 Bytes Used in GitHub's Storage 
@@ -77,14 +73,10 @@ No Activity Tracked This Week
 Java                     2 repos             █████████████████░░░░░░░░   66.67 % 
 TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
-
-
-
-
  Last Updated on 16/05/2024 08:57:23 UTC
 <!--END_SECTION:waka-->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Heart-fire&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Heart-fire&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
