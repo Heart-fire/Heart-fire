@@ -8,9 +8,12 @@
 <img src="https://camo.githubusercontent.com/f50234cb9f1be4beead6b35d3f6ec558561a79c263728818838447aa56cb5401/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966" />
 </p>
 </P>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github-readme-stats.vercel.app/api?username=Heart-fire&show_icons=true&theme=vue-dark">](https://github.com/Heart-fire) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&theme=vue-dark">](https://github.com/anuraghazra/github-readme-stats)  
+
+
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Heart-fire&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Heart-fire&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=Heart-fire&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" /> -->
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Heart-fire&theme=github-compact&hide_border=true&area=true">
 <br/>
@@ -34,10 +37,7 @@
 </p>
 <p align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
-
+	
 **🐱 My GitHub Data** 
 
 > 📦 28.8 kB Used in GitHub's Storage 
@@ -74,8 +74,7 @@ Sunday                   10 commits          ██████░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
+🕑︎ Time Zone: Asia/Tianjin
 💬 Programming Languages: 
 Java                     1 min               █████████████████████████   100.00 % 
 
