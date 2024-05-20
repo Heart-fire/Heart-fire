@@ -9,7 +9,7 @@
 </p>
 </P>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Heart-fire&show_icons=true&theme=vue-dark">](https://github.com/Heart-fire) [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&theme=vue-dark">](https://github.com/anuraghazra/github-readme-stats)  
+[<img src="https://github-readme-stats.vercel.app/api?username=Heart-fire&show_icons=true&theme=vue-dark">](https://github.com/Heart-fire) &nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&theme=vue-dark">](https://github.com/anuraghazra/github-readme-stats)  
 
 
 <p align="center">
