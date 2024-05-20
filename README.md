@@ -71,7 +71,7 @@ Sunday                   9 commits           ██████░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Tianjin
 
 💬 Programming Languages: 
 Java                     1 min               █████████████████████████   100.00 % 
@@ -94,10 +94,7 @@ Java                     3 repos             ███████████�
 TypeScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
-
-
-
- Last Updated on 19/05/2024 12:03:40 UTC
+ Last Updated on 19/05/2024 12:03:40 
 <!--END_SECTION:waka-->
 
 <p align="center">
