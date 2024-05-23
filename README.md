@@ -37,23 +37,9 @@
 </p>
 <p align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 43.8 kB Used in GitHub's Storage 
- > 
-> 🏆 63 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm a Night 🦉** 
 
 ```text
 🌞 Morning                9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
@@ -74,25 +60,6 @@ Sunday                   10 commits          ████░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     1 min               █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Unknown Editor           0 secs              ██████████████████░░░░░░░   73.39 % 
-Intellijidea             0 secs              ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-
-🐱‍💻 Projects: 
-yupao-backend            1 min               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -102,10 +69,6 @@ Vue                      1 repo              ████░░░░░░░�
 TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
-
-
-
- Last Updated on 23/05/2024 11:40:54 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
