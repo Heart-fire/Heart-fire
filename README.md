@@ -37,9 +37,6 @@
 </p>
 <p align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,25 +70,6 @@ Saturday                 0 commits           ░░░░░░░░░░░�
 Sunday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -101,10 +79,6 @@ Vue                      1 repo              ████░░░░░░░�
 TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
-
-
-
- Last Updated on 24/05/2024 02:39:23 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
