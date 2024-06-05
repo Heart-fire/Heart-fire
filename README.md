@@ -37,7 +37,6 @@
 </p>
 <p align="center">
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,24 +70,6 @@ Saturday                 0 commits           ░░░░░░░░░░░�
 Sunday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Java** 
 
