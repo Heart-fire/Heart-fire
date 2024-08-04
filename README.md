@@ -33,11 +33,7 @@
 <p align="center">
  
  <!-- ## 今年汇总(This year's summary) -->
- 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Heart-fire&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
-
-<!--START_SECTION:waka -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heart-fire&show_icons=true&theme=radical)<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 <!-- **🐱 My GitHub Data** 
 
@@ -50,7 +46,7 @@
 > 📜 8 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
- >   -->
+ >   
  
 **I'm a Night 🦉**  
 ```text 
@@ -80,7 +76,10 @@ HTML                     1 repo              ███░░░░░░░░�
 Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
-<!--END_SECTION:waka-->
+-->
+### 交个朋友 👬🏻
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <p align="center">
 <img width="830" src="https://camo.githubusercontent.com/958d3c4a2ec51daf18c5eeed23bed3f039ca13a6aa96a056b7883d9a642c5fbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67">
