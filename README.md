@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=210&&section=header&text={Welcome+visitors}&fontSize=70&fontAlign=50&fontAlignY=30&desc={I'm+HeartFire,wishing+you+happiness+every+day!}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text={Welcome+visitors}&fontSize=60&fontAlign=50&fontAlignY=30&desc={I'm+HeartFire,wishing+you+happiness+every+day!}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=100&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;不同的列车都在开往更好的地方!" />
@@ -24,56 +24,19 @@
 <img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 <!-- https://github.com/tandpfun/skill-icons语言图标 -->
 <img align="center" src="https://skillicons.dev/icons?i=java,vue,spring,redis,linux,py,mysql,webstorm,idea,html,css,c,js,ts,docker&theme=light" />
-<!-- ### 交个朋友 👬🏻
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> -->
 </p>
 
-<!-- **🐱 My GitHub Data** 
-
-> 📦 44.0 kB Used in GitHub's Storage 
- > 
-> 🏆 71 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- >   
- 
-**I'm a Night 🦉**  
-```text 
-🌞 Morning                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-🌆 Daytime                14 commits          █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-🌃 Evening                39 commits          █████████████░░░░░░░░░░░░   53.42 % 
-🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   16 commits          █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-Tuesday                  14 commits          █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Wednesday                11 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Thursday                 19 commits          ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     5 repos             ████████████████░░░░░░░░░   62.50 % 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
+<!-- 已注释
+ ### 交个朋友 👬🏻
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
+<em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> 
 -->
 
 <p align="center">
-<img width="830" src="https://camo.githubusercontent.com/958d3c4a2ec51daf18c5eeed23bed3f039ca13a6aa96a056b7883d9a642c5fbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67">
+<img width="830" height= 160px src="https://camo.githubusercontent.com/958d3c4a2ec51daf18c5eeed23bed3f039ca13a6aa96a056b7883d9a642c5fbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67">
 </p>
+
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=210&&section=footer&text=THE%20END!&fontSize=70&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=60&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
