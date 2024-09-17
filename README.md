@@ -1,10 +1,11 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text={Welcome+visitors}&fontSize=60&fontAlign=50&fontAlignY=30&desc={I'm+HeartFire,wishing+you+happiness+every+day!}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=100&center=true&vCenter=true&random=false&width=750&lines=Different+trains+are+all+heading+towards+better+places!;不同的列车都在开往更好的地方!" />
 <img width="900" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Heart-fire&theme=github-compact&hide_border=true&area=true">
 </p>
+-->
 
 <!-- 网址:  https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- 已注释 <p align="center">
