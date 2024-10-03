@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&&section=header&text=Welcome+visitors&fontSize=60&fontAlign=50&fontAlignY=30&desc=I'm+HeartFire,wishing+you+happiness+every+day!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Welcome+visitors&fontSize=60&fontAlign=50&fontAlignY=30&desc=I'm+HeartFire,wishing+you+happiness+every+day!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=100&center=true&vCenter=true&random=false&width=750&lines=Different+trains+are+all+heading+towards+better+places!;不同的列车都在开往更好的地方!" />
