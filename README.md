@@ -1,11 +1,14 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&&section=header&text=Welcome+visitors&fontSize=60&fontAlign=50&fontAlignY=30&desc=I'm+HeartFire,wishing+you+happiness+every+day!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=header&text=Hello,+my+friend!&fontSize=45&fontAlign=50&fontAlignY=25&desc=Every+programmer+is+a+writer&descAlign=50&descSize=30&descAlignY=55&animation=twinkling" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=100&center=true&vCenter=true&random=false&width=750&lines=Different+trains+are+all+heading+towards+better+places!;不同的列车都在开往更好的地方!" />
+ 🏡业务项目： <a href="https://github.com/Heart-fire/AITest-backend" target="_blank">慧解AI(🤖嵌入聊天机器人)</a> | <a href="https://github.com/Heart-fire/partner-bac" target="_blank">学伴易寻平台</a> | <a href="https://github.com/Heart-fire/user-center" target="_blank">智享用户服务中心</a> |<a href="https://github.com/Heart-fire/springboot-heandline-part" target="_blank">微讯快报</a> | <a href="https://github.com/Heart-fire/deliciousFoods/tree/main" target="_blank">味享家小众平台</a> | <a href="https://github.com/Heart-fire/Copy-DJL-A" target="_blank">仿大疆Web商城</a>
+</p>
+<p align="center">
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=100&center=true&vCenter=true&random=false&width=750&lines=Different+trains+are+all+heading+towards+better+places!;不同的列车都在开往更好的地方!" /> -->
+ 🚀日常项目：<a href="https://github.com/Heart-fire/Heart-fire" target="_blank">关于GitHub主页</a> | <a href="https://github.com/Heart-fire/MbtiTest" target="_blank">MBTI测试小程序</a> | <a href="https://github.com/Heart-fire/Heart-fire.github.io" target="_blank">我的线上博客</a>
 <img width="900" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Heart-fire&theme=github-compact&hide_border=true&area=true">
 </p>
-
 <!--   网址:  https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- 已注释 <p align="center">
 <a href="https://github.com/Heart-fire"><img src="https://img.shields.io/badge/GitHub-Heart_fire-blue?logo=github" /></a>
@@ -40,5 +43,5 @@
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&&section=footer&text=THE%20END!&fontSize=60&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=footer&text=Hope%20your%20program%20is%20bug-free!&fontSize=30&fontAlign=50&fontAlignY=65&desc&descAlign=50&descSize=25&descAlignY=30&animation=twinkling">
 </p>
