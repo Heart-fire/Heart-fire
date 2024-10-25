@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 <!--  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=100&center=true&vCenter=true&random=false&width=750&lines=Different+trains+are+all+heading+towards+better+places!;不同的列车都在开往更好的地方!" /> -->
- 🚀日常项目：<a href="https://github.com/Heart-fire/Heart-fire" target="_blank">关于GitHub主页</a> | <a href="https://github.com/Heart-fire/MbtiTest" target="_blank">MBTI测试小程序</a> | <a href="https://github.com/Heart-fire/Heart-fire.github.io" target="_blank">个人博客🔊</a>
+ 🚀日常项目：<a href="https://github.com/Heart-fire/Heart-fire.github.io" target="_blank">😉个人博客</a>| <a href="https://github.com/Heart-fire/Heart-fire" target="_blank">关于GitHub主页</a> | <a href="https://github.com/Heart-fire/MbtiTest" target="_blank">MBTI测试小程序</a> 
 <img width="900" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Heart-fire&theme=github-compact&hide_border=true&area=true">
 </p>
 <!--   网址:  https://github.com/antonkomarev/github-profile-views-counter -->
