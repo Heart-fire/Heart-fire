@@ -5,7 +5,7 @@
  🏡业务项目： <a href="https://github.com/Heart-fire/AITest-backend" target="_blank">慧解AI(🤖嵌入聊天机器人)</a> | <a href="https://github.com/Heart-fire/partner-bac" target="_blank">学伴易寻平台</a> | <a href="https://github.com/Heart-fire/user-center" target="_blank">智享用户服务中心</a> |<a href="https://github.com/Heart-fire/springboot-heandline-part" target="_blank">微讯快报</a> | <a href="https://github.com/Heart-fire/deliciousFoods/tree/main" target="_blank">味享家小众平台</a> | <a href="https://github.com/Heart-fire/Copy-DJL-A" target="_blank">仿大疆Web商城</a>
 </p>
 <p align="center">
-<!--  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=100&center=true&vCenter=true&random=false&width=750&lines=Different+trains+are+all+heading+towards+better+places!;不同的列车都在开往更好的地方!" /> -->
+<!--  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=100&center=true&vCenter=true&random=false&width=750&lines=Different+trains+are+all+heading+towards+better+places!;不同的列车都在开往更好的地方!" />  -->
  🚀日常项目：<a href="https://www.chunbo.online/" target="_blank">个人博客🐳</a>| <a href="https://github.com/Heart-fire/Heart-fire" target="_blank">关于GitHub主页</a> | <a href="https://github.com/Heart-fire/MbtiTest" target="_blank">MBTI测试小程序</a> 
 <img width="900" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Heart-fire&theme=github-compact&hide_border=true&area=true">
 </p>
