@@ -16,13 +16,6 @@
 <!-- https://github.com/tandpfun/skill-icons语言图标 -->
 <img align="center" src="https://skillicons.dev/icons?i=java,vue,spring,redis,linux,py,mysql,webstorm,idea,html,css,c,js,ts,docker&theme=light" />
 </p>
-<!-- 
-<p align="center">
-<img width="830" height= 160px src="https://camo.githubusercontent.com/958d3c4a2ec51daf18c5eeed23bed3f039ca13a6aa96a056b7883d9a642c5fbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67">
-</p>
--->
-
-<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=footer&text=Hope%20your%20program%20is%20bug-free!&fontSize=30&fontAlign=50&fontAlignY=65&desc&descAlign=50&descSize=25&descAlignY=30&animation=twinkling">
 </p>
