@@ -12,7 +12,7 @@
 <p align="center">
 <!-- 统计提交次数 -->
 <!-- <img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=Heart-fire"/> -->
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<!-- <img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
 <!-- https://github.com/tandpfun/skill-icons语言图标 -->
 <img align="center" src="https://skillicons.dev/icons?i=java,vue,spring,redis,linux,py,mysql,webstorm,idea,html,css,c,js,ts,docker&theme=light" />
 </p>
