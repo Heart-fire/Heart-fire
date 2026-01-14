@@ -14,7 +14,7 @@
 <!-- <img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=Heart-fire"/> -->
 <!-- <img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heart-fire&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
 <!-- https://github.com/tandpfun/skill-icons语言图标 -->
-<img align="center" src="https://skillicons.dev/icons?i=java,vue,spring,redis,linux,py,mysql,webstorm,idea,html,css,c,js,ts,docker&theme=light" />
+<!-- <img align="center" src="https://skillicons.dev/icons?i=java,vue,spring,redis,linux,py,mysql,webstorm,idea,html,css,c,js,ts,docker&theme=light" /> -->
 </p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=footer&text=Hope%20your%20program%20is%20bug-free!&fontSize=30&fontAlign=50&fontAlignY=65&desc&descAlign=50&descSize=25&descAlignY=30&animation=twinkling">
