@@ -5,8 +5,7 @@
    🏡业务项目： <a href="https://github.com/Heart-fire/AITest-backend" target="_blank">慧解AI(嵌入智能体) </a> |<a
   href="https://github.com/Heart-fire/bo-ai-agent" target="_blank"> AI 超级智能体</a>| 
  <a href="https://github.com/Heart-fire/partner-bac" target="_blank">学伴易寻平台</a> | <a href="https://github.com/Heart-fire/user-center"       
-  target="_blank">智享用户服务中心</a> |<a href="https://github.com/Heart-fire/springboot-heandline-part" target="_blank"> 微讯快报 </a> | <a
-  href="https://github.com/Heart-fire/deliciousFoods/tree/main" target="_blank">味享家小众平台</a> | <a
+  target="_blank">智享用户服务中心</a> | <a
   href="https://github.com/Heart-fire/Copy-DJL-A" target="_blank">仿大疆Web商城</a>
   </p>
   <p>
