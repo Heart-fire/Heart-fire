@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=header&fontSize=45&fontAlign=50&fontAlignY=25&descAlign=50&descSize=30&descAlignY=55&animation=twinkling" />
 </p> -->
 <p>
-   🏡业务项目： <a href="https://github.com/Heart-fire/AITest-backend" target="_blank">慧解AI(嵌入智能体) </a> |<a
-  href="https://github.com/Heart-fire/bo-ai-agent" target="_blank"> AI 超级智能体</a>| 
+   🏡业务项目： <a href="https://github.com/Heart-fire/AITest-backend" target="_blank">慧解AI答题平台 </a> |<a
+  href="https://github.com/Heart-fire/bo-ai-agent" target="_blank"> 政策通Agent</a>| 
  <a href="https://github.com/Heart-fire/partner-bac" target="_blank">学伴易寻平台</a> | <a href="https://github.com/Heart-fire/user-center"       
   target="_blank">智享用户服务中心</a>
   </p>
